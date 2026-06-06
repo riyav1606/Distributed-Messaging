@@ -106,7 +106,6 @@ GOOGLE_CLIENT_SECRET=your_google_client_secret
 cd server
 npx prisma migrate dev
 ```
-
 5. **Start the Development Servers**
 ```bash
 # Start the backend server
@@ -166,8 +165,7 @@ pnpm dev
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## 👏 Acknowledgments
-
 - [Next.js Documentation](https://nextjs.org/docs)
 - [Apache Kafka Documentation](https://kafka.apache.org/documentation/)
 - [Redis Documentation](https://redis.io/docs/)
-- [Socket.IO Documentation](https://socket.io/docs/v4/)
+- [Socket.IO Documentation](https://socket.io/docs/v4/) 
