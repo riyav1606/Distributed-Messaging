@@ -55,8 +55,8 @@ graph LR
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/kafka-redis-chat-app.git
-cd kafka-redis-chat-app
+git clone https://github.com/riyav1606/Distributed-Messaging.git
+cd Distributed-Messaging
 ```
 
 2. **Install dependencies**
